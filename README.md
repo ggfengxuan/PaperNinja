@@ -1,4 +1,3 @@
-
 # 🥷 Paper Ninja
 
 ## 项目背景
@@ -40,7 +39,6 @@ python main.py
 #当前存在的问题
 ```
 
-
 #### c、数据清洗助手
 
 利用12703条抗体蛋白信息，生成训练集10041条，测试集2662条，对InternLM2--caht-20B的微调，生成InternLM2--caht-20B-antibody
@@ -52,7 +50,6 @@ python main.py
 
 #当前存在的问题
 ```
-
 
 #### d、模型量化
 
